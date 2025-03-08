@@ -1,0 +1,18 @@
+# Grok’s File Renamer
+A utility for bulk renaming files in a folder.
+
+## How to Use
+1. Install Python (https://www.python.org/).  
+2. Download `renamer.py` from this repository.  
+3. Run: `python renamer.py`.  
+4. Enter the folder path and a prefix for new names.
+
+## Features
+- Adds a prefix and number to file names.  
+- Works with any file type.  
+
+## Example
+- Folder: "C:/Photos", prefix "photo_" → "photo_1.jpg", "photo_2.jpg"
+
+## Support
+If you find this useful, consider supporting me: [Boosty](https://boosty.to/grokcode/donate)
